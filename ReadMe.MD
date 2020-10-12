@@ -1,0 +1,1 @@
+Variaveis de banco de dados e afins não estão presentes no repositório por questão de segurança, faça seu próprio arquivo de variaveis do sistema e o utilize :D .
